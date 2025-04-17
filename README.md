@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm an AI Student with a strong passion in Computer Vision, Natural Language Processing, Deep Learning and AI in Medical Field.</h4>
+<h4 align="left">I'm an AI Student with a strong passion in Computer Vision, Natural Language Processing, Deep Learning.</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning NLP, Computer Vision, Deep Learning<br><br>🎯 Goals: Ease life for everyone</p>
+<p align="left">📚 I'm currently learning <br><br>🎯 Goals: Ease life for everyone</p>
 
 ###
 

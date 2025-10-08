@@ -112,17 +112,37 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaabdoelgohary2003AI&theme=radical&hide_border=true" />
-</div>
+  
+### 📈 Overall Stats & Streak
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaabdoelgohary2003AI&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-</div>
+### 💻 Most Used Languages & Contributions
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaabdoelgohary2003AI&theme=react-dark&hide_border=true&area=true" width="98%">
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&layout=compact&theme=radical&hide_border=false&langs_count=10&border_radius=10&card_width=400" alt="Top Languages" />
+    </td>
+    <td width="50%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&theme=radical&hide_border=false&combine_all_yearly_contributions=true&border_radius=10" alt="Contribution Stats" />
+    </td>
+  </tr>
+</table>
+
+### 📊 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaabdoelgohary2003AI&theme=react-dark&bg_color=141321&color=00d9ff&line=ff6e96&point=ffffff&area=true&hide_border=false&border_radius=10" width="100%" alt="Contribution Graph" />
+
 </div>
 
 ---

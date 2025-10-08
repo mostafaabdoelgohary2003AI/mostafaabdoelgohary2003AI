@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Abdo%20El-Gohary&fontSize=42&fontAlignY=30&desc=AI%20Engineer%20|%20Deep%20Learning%20Enthusiast%20|%20Computer%20Vision%20Specialist&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Abdo%20El-Gohary&fontSize=42&fontAlignY=30&desc=AI%20Engineer%20|%20Machine%20Learning%20Engineer%20|%20Deep%20Learning%20Specialist&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=AI+Student+%26+Deep+Learning+Engineer;Computer+Vision+%7C+NLP+%7C+Neural+Networks;Building+AI+Solutions+for+Tomorrow;Passionate+About+Making+AI+Accessible)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=AI+Engineer+%26+Machine+Learning+Specialist;Computer+Vision+%7C+NLP+%7C+LLMs+%7C+GenAI;Building+Intelligent+AI+Solutions;Passionate+About+Making+AI+Accessible)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,13 +21,14 @@
 class AIEngineer:
     def __init__(self):
         self.name = "Mostafa Abdo El-Gohary"
-        self.role = "AI Student & Deep Learning Engineer"
+        self.role = "AI Engineer & Machine Learning Specialist"
         self.location = "Egypt 🇪🇬"
         self.interests = [
             "Computer Vision",
-            "Natural Language Processing", 
+            "Natural Language Processing",
+            "Large Language Models (LLMs)",
+            "Generative AI",
             "Deep Learning",
-            "Neural Networks",
             "Machine Learning"
         ]
         self.current_focus = "Building intelligent systems"
@@ -40,40 +41,18 @@ me = AIEngineer()
 me.say_hi()
 ```
 
----
+<details>
+<summary><b>🎯 Current Goals & Learning Path</b></summary>
+<br>
 
-## 🎯 Current Goals & Learning Path
+- 🔭 Currently working on **Advanced Computer Vision Projects**
+- 🌱 Learning **Transformer Architectures** and **Generative AI**
+- 👯 Looking to collaborate on **Open Source AI Projects**
+- 💡 Exploring **MLOps** and **Model Deployment**
+- 📫 Open to **Research Opportunities** and **Collaborations**
+- ⚡ Fun fact: **I debug with print statements and I'm proud of it!**
 
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🔭 Currently Working On
-- Advanced Computer Vision Projects
-- Deep Learning Model Optimization
-- Real-world AI Applications
-      
-### 🌱 Currently Learning
-- Transformer Architectures
-- Generative AI & LLMs
-- MLOps & Model Deployment
-      
-    </td>
-    <td width="50%">
-      
-### 👯 Open To
-- Open Source AI Projects
-- Research Collaborations
-- Innovative AI Solutions
-      
-### 💡 Goals
-- Ease life for everyone through AI
-- Build accessible AI tools
-- Contribute to AI research
-      
-    </td>
-  </tr>
-</table>
+</details>
 
 ---
 
@@ -126,6 +105,32 @@ me.say_hi()
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaabdoelgohary2003AI&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaabdoelgohary2003AI&theme=react-dark&hide_border=true&area=true" width="98%">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mostafaabdoelgohary2003AI&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -198,54 +203,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaabdoelgohary2003AI&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&theme=radical&hide_border=true&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostafaabdoelgohary2003AI&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
-
----
-
-## 🎨 Profile Summary Cards
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafaabdoelgohary2003AI&theme=radical" alt="Profile Details">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafaabdoelgohary2003AI&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mostafaabdoelgohary2003AI&theme=radical" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafaabdoelgohary2003AI&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostafaabdoelgohary2003AI&theme=radical&utcOffset=2" width="49%" />
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaabdoelgohary2003AI&theme=react-dark&hide_border=true&area=true" width="98%">
-</div>
-
----
-
 ## 💼 What I'm Working On
 
 <div align="center">
@@ -298,34 +255,55 @@ graph LR
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-<br>
+</div>
 
-### 💭 Random Dev Quote
+---
 
+## 💡 Random Dev Quote
+
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
-
-### ✨ *"Artificial Intelligence is the new electricity."* - **Andrew Ng**
-
-### Show some ❤️ by starring some repositories if you find them helpful!
-
+  <img src="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🐍 Watch My Contribution Graph Get Eaten by a Snake 🐍
+## 📈 Activity Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake.svg">
-  </picture>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafaabdoelgohary2003AI&theme=radical" alt="Activity Graph">
+</div>
+
+---
+
+## 🎨 Profile Summary Cards
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafaabdoelgohary2003AI&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mostafaabdoelgohary2003AI&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostafaabdoelgohary2003AI&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostafaabdoelgohary2003AI&theme=radical&utcOffset=2" />
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+  
+*"Artificial Intelligence is the new electricity."* - **Andrew Ng**
+
+### ✨ Show some ❤️ by starring some of my repositories!
+
 </div>
 
 ---
@@ -333,3 +311,4 @@ graph LR
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
+

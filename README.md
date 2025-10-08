@@ -130,7 +130,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mostafaabdoelgohary2003AI&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mostafaabdoelgohary2003AI&theme=radical&no-frame=false&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -208,16 +208,36 @@ me.say_hi()
 <div align="center">
 
 ```mermaid
-graph LR
-    A[AI Projects] --> B[Computer Vision]
-    A --> C[NLP Applications]
-    A --> D[Deep Learning Models]
-    B --> E[Object Detection]
-    B --> F[Image Segmentation]
-    C --> G[Text Classification]
-    C --> H[Sentiment Analysis]
-    D --> I[Neural Architecture]
-    D --> J[Model Optimization]
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#ff6e96','primaryTextColor':'#fff','primaryBorderColor':'#00d9ff','lineColor':'#00d9ff','secondaryColor':'#7c3aed','tertiaryColor':'#1e293b','fontSize':'16px','fontFamily':'Segoe UI'}}}%%
+graph TB
+    A[AI & ML Engineering Projects]
+    
+    A --> B[Computer Vision]
+    A --> C[Natural Language Processing]
+    A --> D[Deep Learning & Neural Networks]
+    A --> E[Generative AI]
+    
+    B --> B1[Object Detection & Tracking]
+    B --> B2[Image Segmentation]
+    B --> B3[Facial Recognition]
+    
+    C --> C1[Text Classification]
+    C --> C2[Named Entity Recognition]
+    C --> C3[Sentiment Analysis]
+    
+    D --> D1[CNN Architectures]
+    D --> D2[Model Optimization]
+    D --> D3[Transfer Learning]
+    
+    E --> E1[Large Language Models]
+    E --> E2[GANs & Image Generation]
+    E --> E3[AI Chatbots]
+    
+    style A fill:#ff6e96,stroke:#00d9ff,stroke-width:3px,color:#fff
+    style B fill:#7c3aed,stroke:#00d9ff,stroke-width:2px,color:#fff
+    style C fill:#7c3aed,stroke:#00d9ff,stroke-width:2px,color:#fff
+    style D fill:#7c3aed,stroke:#00d9ff,stroke-width:2px,color:#fff
+    style E fill:#7c3aed,stroke:#00d9ff,stroke-width:2px,color:#fff
 ```
 
 </div>

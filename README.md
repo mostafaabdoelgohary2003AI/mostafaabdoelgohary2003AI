@@ -25,11 +25,11 @@
 
 <!-- Social Links -->
 <p>
-  <a href="https://www.linkedin.com/in/mostafa-abdo-el-gohary" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafa-abdo-el-gohary-2003ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mostafa-abdo" target="_blank">
+  <a href="https://github.com/mostafaabdoelgohary2003AI" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;

@@ -167,7 +167,7 @@ currently_building:
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [`Monkeypox-Detection-Pipeline`](https://github.com/MostafaAbdo-ElGohary/Monkeypox-Detection-Pipeline)
+### 🧬 [`Monkeypox-Detection-Pipeline`](https://github.com/mostafaabdoelgohary2003AI/Monkeypox-Detection-Pipeline)
 
 > **Computer Vision · Medical AI · CNN**
 
@@ -178,7 +178,7 @@ End-to-end deep learning pipeline for automated Monkeypox detection from skin le
 </td>
 <td width="50%" valign="top">
 
-### 💓 [`Heart-Disease-Prediction-ML-Pipeline`](https://github.com/MostafaAbdo-ElGohary/Heart-Disease-Prediction-ML-Pipeline)
+### 💓 [`Heart-Disease-Prediction-ML-Pipeline`](https://github.com/mostafaabdoelgohary2003AI/Heart-Disease-Prediction-ML-Pipeline)
 
 > **Machine Learning · Healthcare · End-to-End**
 
@@ -196,7 +196,7 @@ Full ML pipeline for cardiovascular risk prediction — feature engineering, mod
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 [`Transformer-Language-Model-MLM`](https://github.com/MostafaAbdo-ElGohary/Transformer-Language-Model-with-Masked-Language-Modeling)
+### 🧪 [`Transformer-Language-Model-MLM`](https://github.com/mostafaabdoelgohary2003AI/Transformer-Language-Model-with-Masked-Language-Modeling)
 
 > **NLP · GenAI · Transformer Architecture**
 
@@ -207,7 +207,7 @@ Custom implementation of a Transformer with Masked Language Modeling from scratc
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [`GANs-Implementations`](https://github.com/MostafaAbdo-ElGohary/GANs-Implementations)
+### 🎨 [`GANs-Implementations`](https://github.com/mostafaabdoelgohary2003AI/GANs-Implementations)
 
 > **Generative AI · Deep Learning · Research**
 
@@ -225,7 +225,7 @@ Experimental implementations of Generative Adversarial Networks — exploring va
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 [`Diabetes-Prediction`](https://github.com/MostafaAbdo-ElGohary/Diabetes-Prediction)
+### 🩺 [`Diabetes-Prediction`](https://github.com/mostafaabdoelgohary2003AI/Diabetes-Prediction)
 
 > **Machine Learning · Medical Prediction**
 
@@ -236,7 +236,7 @@ Predictive ML system for early diabetes detection with complete preprocessing pi
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [`Warsaw-EV-Charging-Analysis`](https://github.com/MostafaAbdo-ElGohary/Warsaw-EV-Charging-Analysis)
+### ⚡ [`Warsaw-EV-Charging-Analysis`](https://github.com/mostafaabdoelgohary2003AI/Warsaw-EV-Charging-Analysis)
 
 > **Data Analysis · Infrastructure · EDA**
 
@@ -254,7 +254,7 @@ In-depth analysis of EV charging infrastructure and usage patterns in Warsaw —
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [`Ra7al-Tourist-Website`](https://github.com/MostafaAbdo-ElGohary/Ra7al-Tourist-Website)
+### 🌐 [`Ra7al-Tourist-Website`](https://github.com/mostafaabdoelgohary2003AI/Ra7al-Tourist-Website)
 
 > **Full-Stack · TypeScript · Deployed**
 
@@ -265,7 +265,7 @@ Production-deployed travel platform built with TypeScript — demonstrating full
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [`Hospital-Management-System`](https://github.com/MostafaAbdo-ElGohary/Hospital-Management-System)
+### 🏥 [`Hospital-Management-System`](https://github.com/mostafaabdoelgohary2003AI/Hospital-Management-System)
 
 > **Python · Systems · Healthcare**
 
@@ -283,7 +283,7 @@ Comprehensive Python-based hospital management system — patient records, appoi
 <tr>
 <td valign="top">
 
-### 🦠 [`COVID-19-EDA`](https://github.com/MostafaAbdo-ElGohary/COVID-19-EDA)
+### 🦠 [`COVID-19-EDA`](https://github.com/mostafaabdoelgohary2003AI/COVID-19-EDA)
 
 > **Exploratory Data Analysis · Pandemic Insights**
 
@@ -390,17 +390,17 @@ Statistical deep-dive into COVID-19 progression data — temporal trends, region
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaAbdo-ElGohary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=7B2FBE" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=7B2FBE" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbdo-ElGohary&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MostafaAbdo-ElGohary&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mostafaabdoelgohary2003AI&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MostafaAbdo-ElGohary&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mostafaabdoelgohary2003AI&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=8"/>
 
 </div>
 
@@ -425,14 +425,14 @@ Statistical deep-dive into COVID-19 progression data — temporal trends, region
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MostafaAbdo-ElGohary/MostafaAbdo-ElGohary/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MostafaAbdo-ElGohary/MostafaAbdo-ElGohary/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MostafaAbdo-ElGohary/MostafaAbdo-ElGohary/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mostafaabdoelgohary2003AI/mostafaabdoelgohary2003AI/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaAbdo-ElGohary&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&area_color=7B2FBE" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafaabdoelgohary2003AI&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&area_color=7B2FBE" width="95%"/>
 
 </div>
 
@@ -504,7 +504,7 @@ Statistical deep-dive into COVID-19 progression data — temporal trends, region
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MostafaAbdo-ElGohary&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=mostafaabdoelgohary2003AI&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
 
 <br/><br/>
 

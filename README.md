@@ -457,7 +457,7 @@ Statistical deep-dive into COVID-19 progression data — temporal trends, region
   <img src="https://img.shields.io/badge/LinkedIn-%40mostafa--abdo--el--gohary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="https://github.com/MostafaAbdo-ElGohary">
+<a href="https://github.com/mostafaabdoelgohary2003AI">
   <img src="https://img.shields.io/badge/GitHub-%40MostafaAbdo--ElGohary-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
 

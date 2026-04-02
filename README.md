@@ -1,62 +1,30 @@
 <div align="center">
 
-<!-- ============================================================ -->
-<!--                     ANIMATED BANNER                          -->
-<!-- ============================================================ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Abdo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=El-Gohary&descAlignY=51&descAlign=50&descSize=28" width="100%"/>
-
-<!-- ============================================================ -->
-<!--                     TYPING ANIMATION                         -->
-<!-- ============================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Abdo%20El-Gohary&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Class%20of%202026&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=AI+Engineer+%F0%9F%A4%96;GenAI+%26+LLM+Systems+Builder+%F0%9F%A7%A0;Computer+Vision+Researcher+%F0%9F%94%AC;NLP+%26+Deep+Learning+Practitioner+%F0%9F%8C%90;Building+AI+that+Actually+Works+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Building+AI+for+real-world+impact+%E2%9A%A1;Medical+AI+%7C+GenAI+%7C+Computer+Vision+%7C+NLP;From+EEG+signals+to+LLMs+%E2%80%94+full-stack+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Tagline -->
-<p>
-  <img src="https://img.shields.io/badge/%E2%9A%A1-Not%20just%20studying%20AI%20%E2%80%94%20Engineering%20it-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
-</p>
-
-<br/>
-
-<!-- Social Links -->
-<p>
-  <a href="https://www.linkedin.com/in/mostafa-abdo-el-gohary-2003ai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mostafaabdoelgohary2003AI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/🎓%20Kafr%20El--Sheikh%20University-Graduation%202026-7B2FBE?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+<a href="https://www.linkedin.com/in/mostafa-abdo-el-gohary-2003ai/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/mostafaabdoelgohary2003AI" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓%20Kafr%20El--Sheikh%20University-Graduating%202026-7B2FBE?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=mostafaabdoelgohary2003AI&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                       ABOUT SECTION                          -->
-<!-- ============================================================ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%A7%A0%20%20WHO%20AM%20I%3F&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+## 🧠 Who Am I?
 
 ```yaml
 identity:
@@ -70,357 +38,153 @@ mindset:
   - "Systems thinker, not just a coder"
   - "AI should solve real problems"
   - "Models are tools — the problem is the goal"
-  - "From EEG signals to LLMs — full stack AI"
+  - "From EEG signals to LLMs — full-stack AI"
 
 currently_building:
-  - "Medical AI systems"
-  - "Generative AI pipelines"
-  - "BCI + signal processing research"
+  - "Medical AI systems for disease detection"
+  - "Generative AI pipelines & LLM applications"
+  - "BCI + EEG signal classification research"
 ```
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px;"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                     TECH STACK SECTION                       -->
-<!-- ============================================================ -->
+## 🌟 Highlight Project
 
-<div align="center">
+### 🧬 [`Monkeypox-Detection-Pipeline`](https://github.com/mostafaabdoelgohary2003AI/Monkeypox-Detection-Pipeline)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%E2%9A%99%EF%B8%8F%20%20TECH%20ARSENAL&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
+> A CNN-based pipeline for detecting Monkeypox from skin lesion images — covering preprocessing, augmentation, model training, and inference. Targets a real diagnostic gap in low-resource healthcare settings.
 
-<br/><br/>
+`Python` · `OpenCV` · `CNN` · `Deep Learning` · `Medical Imaging`
 
-### ⬡ Core Languages & Frameworks
+---
+
+## 🚀 Projects
+
+### 💓 [`Heart-Disease-Prediction-ML-Pipeline`](https://github.com/mostafaabdoelgohary2003AI/Heart-Disease-Prediction-ML-Pipeline)
+> End-to-end ML pipeline for cardiovascular risk prediction — feature engineering, model selection, evaluation, and explainability using real clinical data.
+
+`Python` · `Scikit-Learn` · `Pandas` · `Healthcare`
+
+---
+
+### 🧪 [`Transformer-Language-Model-MLM`](https://github.com/mostafaabdoelgohary2003AI/Transformer-Language-Model-with-Masked-Language-Modeling)
+> Custom Transformer architecture built from scratch with Masked Language Modeling — attention mechanisms, tokenization, and BERT-style pretraining, implemented without high-level wrappers.
+
+`PyTorch` · `NLP` · `Transformers` · `BERT-style`
+
+---
+
+### 🎨 [`GANs-Implementations`](https://github.com/mostafaabdoelgohary2003AI/GANs-Implementations)
+> Hands-on implementations of vanilla GAN, DCGAN, and conditional GAN variants — built to deeply understand generative modeling architecture from first principles.
+
+`PyTorch` · `GANs` · `DCGAN` · `Generative AI`
+
+---
+
+### 🩺 [`Diabetes-Prediction`](https://github.com/mostafaabdoelgohary2003AI/Diabetes-Prediction)
+> ML model for early diabetes detection with full preprocessing, cross-validation, and feature importance analysis.
+
+`Python` · `Scikit-Learn` · `Medical AI`
+
+---
+
+### ⚡ [`Warsaw-EV-Charging-Analysis`](https://github.com/mostafaabdoelgohary2003AI/Warsaw-EV-Charging-Analysis)
+> EDA on Warsaw's EV charging infrastructure — usage patterns, demand trends, and urban mobility insights from real city data.
+
+`Python` · `Pandas` · `Matplotlib` · `EDA`
+
+---
+
+### 🌐 [`Ra7al-Tourist-Website`](https://github.com/mostafaabdoelgohary2003AI/Ra7al-Tourist-Website)
+> Full-stack travel platform built and deployed with TypeScript — demonstrates web development capability beyond the ML stack.
+
+`TypeScript` · `Angular` · `Full-Stack` · `Deployed`
+
+---
+
+### 🏥 [`Hospital-Management-System`](https://github.com/mostafaabdoelgohary2003AI/Hospital-Management-System)
+> Python-based system for managing patient records, appointments, and departmental workflows — OOP-driven design in a healthcare context.
+
+`Python` · `OOP` · `Healthcare`
+
+---
+
+### 🦠 [`COVID-19-EDA`](https://github.com/mostafaabdoelgohary2003AI/COVID-19-EDA)
+> Statistical analysis of COVID-19 progression data — temporal trends, regional patterns, and reproducible data storytelling.
+
+`Python` · `Pandas` · `Seaborn` · `EDA`
+
+---
+
+## 🔬 R&D / In-Progress Systems
+
+> ⚗️ Research and concept-stage work — not all repos are public yet.
+
+| Project | Domain | Status |
+|:--------|:-------|:------:|
+| **BCI — EEG Signal Classification** | Brain-Computer Interface · Signal Processing | `🔄 Research` |
+| **MRI Breast Tumor Segmentation** | Medical Imaging · U-Net · Segmentation | `🔄 In Progress` |
+| **Respiratory Rate Detection** | OpenCV · Dlib · Real-time CV | `✅ Completed` |
+| **Skin Cancer Detection** | Dermatology · CNN · Classification | `✅ Completed` |
+| **Arabic Poetry Generator** | NLP · Arabic Language Models | `🔄 In Progress` |
+| **DoctorAI — Medical Diagnosis Assistant** | Multi-disease · LLM-powered | `⚗️ Concept` |
+| **Koshofat — Smart Appointment System** | GenAI · Arabic NLP · Scheduling | `⚗️ Concept` |
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages & Frameworks**
 
 <img src="https://skillicons.dev/icons?i=python,typescript,angular&theme=dark&perline=8"/>
 
-<br/><br/>
-
-### ⬡ AI / ML / Deep Learning
+**AI / ML / Deep Learning**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=8"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-<br/><br/>
-
-### ⬡ AI Domains
-
-| 🔬 Domain | 🛠️ Techniques |
-|:---|:---|
-| **Computer Vision** | CNN, Object Detection, Segmentation, OpenCV |
-| **NLP & GenAI** | Transformers, BERT, GPT, Masked LM, Prompt Engineering |
-| **Deep Learning** | RNN, LSTM, GANs, Autoencoders |
-| **Signal Processing** | EEG, BCI, OpenCV + Dlib pipelines |
-| **Medical AI** | Tumor Segmentation, Disease Detection, MRI Analysis |
-
-<br/>
-
-### ⬡ Tools & Environment
+**Tools & Environment**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,jupyter&theme=dark&perline=8"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
-
 ---
 
-<!-- ============================================================ -->
-<!--                  FEATURED PROJECTS SECTION                   -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%9A%80%20%20FEATURED%20PROJECTS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
-</div>
-
-<br/>
-
-<!-- Row 1 -->
-<table align="center" border="0" width="95%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 [`Monkeypox-Detection-Pipeline`](https://github.com/mostafaabdoelgohary2003AI/Monkeypox-Detection-Pipeline)
-
-> **Computer Vision · Medical AI · CNN**
-
-End-to-end deep learning pipeline for automated Monkeypox detection from skin lesion imagery. Covers preprocessing, augmentation, model training, and inference — production-grade CV for real clinical relevance.
-
-`Python` `OpenCV` `CNN` `Deep Learning` `Healthcare`
-
-</td>
-<td width="50%" valign="top">
-
-### 💓 [`Heart-Disease-Prediction-ML-Pipeline`](https://github.com/mostafaabdoelgohary2003AI/Heart-Disease-Prediction-ML-Pipeline)
-
-> **Machine Learning · Healthcare · End-to-End**
-
-Full ML pipeline for cardiovascular risk prediction — feature engineering, model selection, evaluation, and explainability. Built to production standards with clinical dataset handling.
-
-`Python` `Scikit-Learn` `Pandas` `ML Pipeline` `Healthcare`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" width="95%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [`Transformer-Language-Model-MLM`](https://github.com/mostafaabdoelgohary2003AI/Transformer-Language-Model-with-Masked-Language-Modeling)
-
-> **NLP · GenAI · Transformer Architecture**
-
-Custom implementation of a Transformer with Masked Language Modeling from scratch — not fine-tuning, but building the architecture. Deep understanding of attention, tokenization, and pretraining objectives.
-
-`PyTorch` `NLP` `Transformers` `BERT-style` `GenAI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [`GANs-Implementations`](https://github.com/mostafaabdoelgohary2003AI/GANs-Implementations)
-
-> **Generative AI · Deep Learning · Research**
-
-Experimental implementations of Generative Adversarial Networks — exploring vanilla GAN, DCGAN, and conditional variants. Hands-on generative modeling before it was mainstream.
-
-`PyTorch` `GANs` `DCGAN` `Generative AI` `Deep Learning`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" width="95%">
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 [`Diabetes-Prediction`](https://github.com/mostafaabdoelgohary2003AI/Diabetes-Prediction)
-
-> **Machine Learning · Medical Prediction**
-
-Predictive ML system for early diabetes detection with complete preprocessing pipeline, cross-validation, and model interpretability. Focused on clinical-grade reliability.
-
-`Python` `Scikit-Learn` `ML` `Medical AI`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ [`Warsaw-EV-Charging-Analysis`](https://github.com/mostafaabdoelgohary2003AI/Warsaw-EV-Charging-Analysis)
-
-> **Data Analysis · Infrastructure · EDA**
-
-In-depth analysis of EV charging infrastructure and usage patterns in Warsaw — demand forecasting, behavioral modeling, and grid impact insights. Data science applied to real urban mobility.
-
-`Python` `Pandas` `Matplotlib` `EDA` `Data Analysis`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" width="95%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [`Ra7al-Tourist-Website`](https://github.com/mostafaabdoelgohary2003AI/Ra7al-Tourist-Website)
-
-> **Full-Stack · TypeScript · Deployed**
-
-Production-deployed travel platform built with TypeScript — demonstrating full-stack capability and real deployment experience beyond the ML stack.
-
-`TypeScript` `Angular` `Web` `Deployed` `Full-Stack`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [`Hospital-Management-System`](https://github.com/mostafaabdoelgohary2003AI/Hospital-Management-System)
-
-> **Python · Systems · Healthcare**
-
-Comprehensive Python-based hospital management system — patient records, appointment flows, and departmental logic. Domain-deep engineering meets software design.
-
-`Python` `OOP` `Healthcare` `Systems Design`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" width="60%">
-<tr>
-<td valign="top">
-
-### 🦠 [`COVID-19-EDA`](https://github.com/mostafaabdoelgohary2003AI/COVID-19-EDA)
-
-> **Exploratory Data Analysis · Pandemic Insights**
-
-Statistical deep-dive into COVID-19 progression data — temporal trends, regional patterns, and data visualization storytelling. Clean, insightful, reproducible analysis.
-
-`Python` `Pandas` `Matplotlib` `EDA` `Seaborn`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--               ADVANCED / R&D PROJECTS SECTION                -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%94%AC%20%20R%26D%20%2F%20ADVANCED%20SYSTEMS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
-
-<br/>
-<sub><i>⚗️ Deep research and in-progress systems — not all are open-sourced</i></sub>
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🔬 Project | 🎯 Domain | 📌 Status |
-|:---|:---|:---:|
-| **BCI System — EEG Signal Classification** | Brain-Computer Interface · Signal Processing | `🔄 Research` |
-| **MRI Breast Tumor Segmentation** | Medical Imaging · U-Net · Semantic Segmentation | `🔄 In Progress` |
-| **Respiratory Rate Detection** | OpenCV · Dlib · Real-time Computer Vision | `✅ Completed` |
-| **Skin Cancer Detection System** | Dermatology AI · CNN · Classification | `✅ Completed` |
-| **Arabic Poetry Generator** | NLP · GenAI · Arabic Language Models | `🔄 In Progress` |
-| **DoctorAI — Medical Diagnosis System** | Multi-disease AI · LLM-powered · Healthcare | `⚗️ Concept Build` |
-| **Koshofat — Intelligent Appointment System** | GenAI · Smart Scheduling · Arabic NLP | `⚗️ Concept Build` |
-
-</div>
-
-<br/>
-
-> 🧠 **These systems aren't academic exercises.** They're blueprints for AI that operates in clinical, real-world, and Arabic-language contexts — domains that demand precision, not just accuracy metrics.
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                   CURRENT FOCUS SECTION                      -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%8E%AF%20%20CURRENT%20FOCUS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
-</div>
-
-<br/>
-
-<div align="center">
+## 🎯 Current Focus
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   🔬  Scaling Medical AI systems to real clinical deployment         │
-│   🧠  LLM fine-tuning for Arabic NLP & domain-specific tasks         │
-│   ⚡  BCI + EEG signal classification with Deep Learning             │
-│   🎨  Multimodal AI: Vision + Language + Medical Imaging             │
-│   🚀  Building production-grade GenAI pipelines                      │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+🔬  Exploring medical AI for disease detection and segmentation
+🧠  LLM fine-tuning for Arabic NLP and domain-specific tasks
+⚡  EEG signal classification with deep learning (BCI research)
+🎨  Multimodal AI — combining vision, language, and medical imaging
 ```
-
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
 
 ---
 
-<!-- ============================================================ -->
-<!--                    GITHUB STATS SECTION                      -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%93%8A%20%20GITHUB%20METRICS&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
-</div>
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=7B2FBE" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mostafaabdoelgohary2003AI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=7B2FBE" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabdoelgohary2003AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mostafaabdoelgohary2003AI&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mostafaabdoelgohary2003AI&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" height="175"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mostafaabdoelgohary2003AI&theme=tokyonight&no-frame=true&row=1&column=7&no-bg=true&margin-w=8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
 </div>
 
 ---
 
-<!-- ============================================================ -->
-<!--               CONTRIBUTION / SNAKE ANIMATION                 -->
-<!-- ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%90%8D%20%20CONTRIBUTION%20ACTIVITY&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
-</div>
-
-<br/>
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -436,54 +200,23 @@ Statistical deep-dive into COVID-19 progression data — temporal trends, region
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
-
 ---
 
-<!-- ============================================================ -->
-<!--                     CONTACT SECTION                          -->
-<!-- ============================================================ -->
+## 📬 Let's Connect
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%93%A1%20%20LET%27S%20CONNECT&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
 
-<br/><br/>
+**I'm open to internships, research collaborations, and freelance AI projects.**
 
-<a href="https://www.linkedin.com/in/mostafa-abdo-el-gohary">
-  <img src="https://img.shields.io/badge/LinkedIn-%40mostafa--abdo--el--gohary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+<br/>
+
+<a href="https://www.linkedin.com/in/mostafa-abdo-el-gohary-2003ai/" target="_blank">
+  <img src="https://img.shields.io/badge/Reach%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="https://github.com/mostafaabdoelgohary2003AI">
-  <img src="https://img.shields.io/badge/GitHub-%40MostafaAbdo--ElGohary-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<a href="https://github.com/mostafaabdoelgohary2003AI" target="_blank">
+  <img src="https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/💬%20Open%20to-Research%20Collabs%20%7C%20AI%20Projects%20%7C%20Opportunities-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,11,20&height=3" width="90%"/>
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                   SIGNATURE / PHILOSOPHY                     -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=60&section=header&text=%20%20%F0%9F%92%A1%20%20THE%20PHILOSOPHY&fontSize=22&fontColor=00D9FF&animation=fadeIn" width="80%"/>
 
 <br/><br/>
 
@@ -497,18 +230,11 @@ Statistical deep-dive into COVID-19 progression data — temporal trends, region
 ║   🔬 From neurons in EEG to neurons in networks —                ║
 ║       the gap is smaller than you think.                         ║
 ║                                                                  ║
-║                            — Mostafa Abdo El-Gohary              ║
-║                               AI Engineer · Class of 2026        ║
+║                         — Mostafa Abdo El-Gohary                 ║
+║                            AI Engineer · Class of 2026           ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mostafaabdoelgohary2003AI&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117"/>
-
-<br/><br/>
-
 </div>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>

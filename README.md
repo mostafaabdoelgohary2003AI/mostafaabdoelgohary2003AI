@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Abdo%20El-Gohary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Computer%20Vision%20%7C%20LLMs&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOUSTAFA%20ABDOU%20ELGOUHARI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20Computer%20Vision%20%7C%20LLMs&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Building+Production-Ready+AI+Systems+%F0%9F%9A%80;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+MLOps;From+Research+to+Real-World+Deployment+%F0%9F%8C%8D)](https://git.io/typing-svg)
 

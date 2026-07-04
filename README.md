@@ -22,7 +22,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name         = "Mostafa Abdo El-Gohary"
+        self.name         = "MOUSTAFA ELGOUHARI"
         self.role         = "AI Engineer — GenAI | Computer Vision | NLP"
         self.location     = "Mansoura, Egypt 🇪🇬"
         self.education    = "Faculty of Artificial Intelligence, Kafr El-Sheikh University"

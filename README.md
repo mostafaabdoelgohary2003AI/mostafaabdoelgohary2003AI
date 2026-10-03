@@ -30,7 +30,7 @@ class AIEngineer:
         self.focus        = [
             "Generative AI & LLM Applications",
             "Retrieval-Augmented Generation (RAG)",
-            "Computer Vision (YOLOv8, CNNs)",
+            "Computer Vision (YOLOv26, CNNs)",
             "Arabic NLP & Multilingual AI",
             "Production AI Systems & MLOps",
             "AI Microservices & API Engineering",
@@ -50,7 +50,7 @@ class AIEngineer:
 | Domain | Focus Areas |
 |---|---|
 | 🤖 **Generative AI** | LLM Applications, Prompt Engineering, RAG Pipelines, RLHF Workflows |
-| 👁️ **Computer Vision** | Object Detection, YOLOv8, Medical Image Analysis, Real-Time Inference |
+| 👁️ **Computer Vision** | Object Detection, YOLOv26, Medical Image Analysis, Real-Time Inference |
 | 📝 **NLP & Arabic NLP** | BERT, Transformers, Sentiment Analysis, Arabic LLM Evaluation |
 | ⚙️ **MLOps & Deployment** | Docker, FastAPI, Azure AI, MLflow, CI/CD for ML |
 | 🔬 **AI Evaluation** | Multi-Model Benchmarking, Safety Testing, Instruction-Following Evaluation |
@@ -71,7 +71,7 @@ class AIEngineer:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv26-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 **LLMs & Generative AI**
 
@@ -123,7 +123,7 @@ class AIEngineer:
 │  ┌──────────────┐    REST API    ┌──────────────────┐              │
 │  │  FastAPI AI  │◄──────────────►│  Django REST     │              │
 │  │  Microservice│                │  Backend         │              │
-│  │  YOLOv8      │                │  (Business Logic)│              │
+│  │  YOLOv26      │                │  (Business Logic)│              │
 │  └──────────────┘                └────────┬─────────┘              │
 │        │                                  │                         │
 │        │  Real-Time Detection             │  Firebase FCM           │
@@ -140,13 +140,13 @@ class AIEngineer:
 
 </div>
 
-FireGuard is a full-stack, production-oriented real-time fire and smoke detection ecosystem built with a multi-service AI architecture. The system processes live camera streams, runs YOLOv8 inference in a dedicated FastAPI microservice, manages events through a Django REST backend, and delivers push notifications with siren and vibration alerts to Flutter mobile clients via Firebase Cloud Messaging — all orchestrated through Docker Compose.
+FireGuard is a full-stack, production-oriented real-time fire and smoke detection ecosystem built with a multi-service AI architecture. The system processes live camera streams, runs YOLOv26 inference in a dedicated FastAPI microservice, manages events through a Django REST backend, and delivers push notifications with siren and vibration alerts to Flutter mobile clients via Firebase Cloud Messaging — all orchestrated through Docker Compose.
 
 **System Highlights**
 
 | Component | Technology | Role |
 |---|---|---|
-| AI Inference Engine | YOLOv8 + PyTorch | Real-time fire/smoke object detection |
+| AI Inference Engine | YOLOv26 + PyTorch | Real-time fire/smoke object detection |
 | AI Microservice | FastAPI | High-performance inference API |
 | Backend | Django REST Framework | Event management, auth, data layer |
 | Mobile App | Flutter | Real-time alerts, siren, vibration |
@@ -156,7 +156,7 @@ FireGuard is a full-stack, production-oriented real-time fire and smoke detectio
 
 **Engineering Depth**
 
-- ⚡ Real-time YOLOv8 inference pipeline with sub-second detection latency
+- ⚡ Real-time YOLOv26 inference pipeline with sub-second detection latency
 - 🏗️ Decoupled AI microservice architecture for independent scaling
 - 🔔 End-to-end emergency notification flow: detection → event → mobile alert
 - 📦 Fully containerized with Docker Compose for reproducible deployments

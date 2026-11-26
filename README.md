@@ -10,7 +10,7 @@
 
 ## About
 
-AI Engineering graduate (B.Sc. 2026). I build small, complete AI systems and test them honestly: retrieval-augmented generation, multi-agent workflows, LLM evaluation, computer vision and Arabic NLP. Every project below has tests, CI and a README that states what it does **and what it does not**. Numbers are measured on held-out data, small samples are labelled as small, and rule-based parts are labelled as rules.
+AI Engineering graduate (B.Sc. 2026). I build small, complete AI systems and test them honestly: retrieval-augmented generation, multi-agent workflows, LLM evaluation, computer vision and Arabic NLP. The 12 project repos have tests, CI and a README that states what they do **and what they do not**. Numbers are measured; held-out, synthetic, self-test and tiny-sample results are labelled as such in the table below and in each README. The "More repositories" are older coursework without CI or tests.
 
 My graduation project, **FireGuard**, was graded *Excellent with Honors* (team of 8, my role: backend deployment).
 
@@ -53,13 +53,15 @@ Click a logo to open the repo.
 | Project | Result | Note |
 |---|---|---|
 | churn-insight-platform | 96.3% accuracy, ROC-AUC 0.992 | Held-out data, public Iranian telecom dataset |
-| sat-vision-service | 94.1% accuracy | EuroSAT, 10 classes, held-out |
-| arabic-rag-chatbot | hit@5 97.3%, exact match 33.3%, F1 46.9% | XQuAD-Arabic, reported as measured |
-| telco-churn-lab | 79.9% accuracy, ROC-AUC 0.836 | 5-fold CV, test set used once |
-| nl2sql-agent | rules 15/15, LLM only 6/15 | Golden-SQL benchmark; the LLM-only score is the honest gap |
+| sat-vision-service | 94.1% accuracy | EuroSAT, 10 classes, own 80/20 split; the same split also chose the training recipe, so slightly optimistic |
+| arabic-rag-chatbot | hit@5 97.3%; reader EM 33.3%, F1 46.9% | XQuAD-Arabic; retrieval over only 240 passages; reader scores on a 60-question sample |
+| telco-churn-lab | 79.9% accuracy (79.5% at 0.5), ROC-AUC 0.836 | Model chosen by 5-fold CV on the train part; 20% test set used once; majority baseline 73.4% |
+| nl2sql-agent | rules 15/15, LLM only 6/15 | 15 author-written cases with golden SQL, a regression check not an independent test; the LLM-only score is the honest gap |
 | retention-copilot | 3/3 LLM drafts passed the Critic | Gemini 3.1 Flash-Lite, tiny run, not a benchmark |
-| llm-eval-kit | LLM judge mean 0.50 vs heuristic 0.435 | Small labelled set; hallucination rate 0.4 vs 0.2 |
+| llm-eval-kit | LLM judge mean 0.50 vs heuristic 0.435 | 5 items only (one planted hallucination), a smoke test; hallucination rate 0.4 vs 0.2 |
 | bilingual-rag | hit@3 1.0 | Only 4 questions, a smoke test, not a benchmark |
+| arabic-nlp-toolkit | 24/24 dialect sentences | Hand-written self-test for the marker rules, not an accuracy |
+| doc-scan-pro | 100% page detection, about 35 ms per photo | 20 synthetic degraded photos from the repo's own generator |
 
 ## Stack
 
